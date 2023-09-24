@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C#, .NET, SQL Server, REST APIs**
 
-- 📫 How to reach me **youkeshkhatri1234@gmail.com**
+- 📫 Mail me at **youkeshkhatri1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
